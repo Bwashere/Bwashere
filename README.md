@@ -1,5 +1,5 @@
 ### 👋 I'm Brackzz
-[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/dnrp) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://brackzz.com)
+[![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/dominant) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://brackzz.com)
 
 ```js
 const brackzz = require('./brackzz.js')

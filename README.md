@@ -1,20 +1,22 @@
 ### 👋 I'm Brackzz
 [![Discord Badge](https://img.shields.io/badge/-Discord-9B9B9B?style=flat-square&logo=Discord&logoColor=white)](https://discord.gg/dominant) [![Website Badge](https://img.shields.io/badge/Website-9B9B9B?style=flat-square&logo=google-chrome&logoColor=white)](https://brackzz.com)
 
-```js
-const brackzz = require('./brackzz.js')
+```lua
+print("Loading ...")
+Brackzz = {}
 
-letdaarray = ['This Kinda neet']
-
-brackzzconfig = {
-// About Brackzz
-brackzz: "Fun",
-website: "https://brackzz.com",
-anticheat: "https://brackzz.com/anticheat"
+Brackzz.About = {
+	Enabled = true,
+  Aboutme = "Wanna Be Hacker.",
+  Games = "Csgo, Payday",
+  justbetter = true
 }
 
 
-module.exports = brackzz;
+while Brackzz.About.justbetter do
+print("Beamed...")
+Wait(500)
+os.exit()
 ```
 <p align="center">
 <a href="https://github.com/Bwashere">
